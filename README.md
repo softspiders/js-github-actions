@@ -12,7 +12,6 @@
 ## Parents
 
 - [- **github-actions**: javascript](https://github.com/softspiders/javascript)
-- [+***app***: js-app-starter](https://github.com/softspiders/js-app-starter)
 
 ---
 
