@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Minimalistic *JavaScript* starter
+# *GitHub Actions* HelloWorld for JS
 
 ## Feature tags
 
