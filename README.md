@@ -1,4 +1,8 @@
-[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">
+      <img src="./images/sslogo-from-github-20.png"/>
+    </a>
+</div>
 
 # *GitHub Actions* HelloWorld for JS
 
@@ -36,3 +40,7 @@ TBD
 ### License
 
 Licensed under the [MIT license](./LICENSE).
+
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">SOFTSPIDERS</a>
+</div>
