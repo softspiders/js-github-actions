@@ -4,15 +4,14 @@
 
 ## Feature tags
 
+- github-actions
 - javascript
 - starter
 - template
 
-## Direct descendants
+## Parents
 
-- [node-cli-starter](https://github.com/softspiders/node-cli-starter)
-- [jest-starter](https://github.com/softspiders/jest-starter)
-- [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
+- [- **github-actions**: javascript](https://github.com/softspiders/javascript)
 - [+***app***: js-app-starter](https://github.com/softspiders/js-app-starter)
 
 ---
@@ -32,7 +31,7 @@
 ## Running
 
 ```sh
-node index
+TBD
 ```
 
 ### License
