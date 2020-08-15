@@ -1,0 +1,22 @@
+{
+  "name": "js-github-actions",
+  "version": "0.1.0",
+  "private": true,
+  "author": "https://github.com/AlexanderLapygin",
+  "scripts": {
+  },
+  "keywords": [
+    "javascript",
+    "github-actions",
+    "starter",
+    "template"
+  ],
+  "dependencies": {
+    "metro-config": "^0.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softspiders/js-github-actions.git"
+  },
+  "license": "MIT"
+}
