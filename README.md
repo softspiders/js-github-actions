@@ -11,7 +11,7 @@
 
 ## Parents
 
-- [- **github-actions**: javascript](https://github.com/softspiders/javascript)
+- [- ***github-actions***: javascript](https://github.com/softspiders/javascript)
 
 ---
 
