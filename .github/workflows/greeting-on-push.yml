@@ -13,6 +13,5 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: echo Hello from GitHub Actions!
       - run: node index.js
         
