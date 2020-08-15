@@ -18,6 +18,10 @@
 - [- ***github-actions***: javascript](https://github.com/softspiders/javascript)
 - [- ***js***: github-actions](https://github.com/softspiders/github-actions)
 
+## Children
+
+- [+ ***git-flow***, ***publishing***, ***releasing***, ***typescript***: lerna-ts-ci-starter](https://github.com/softspiders/lerna-ts-ci-starter)
+
 ---
 
 ## Author
