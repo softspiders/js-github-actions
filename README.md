@@ -34,7 +34,7 @@
 
 ## Running
 
-Do push to [this repo](https://github.com/softspiders/github-action)  and see output log in Actions Tab
+Do push to [this repo](https://github.com/softspiders/github-action)  and see "JS on GitHub Actions!" in output log of the push in Actions Tab.
 
 ### License
 
