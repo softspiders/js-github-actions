@@ -4,6 +4,7 @@
   "private": true,
   "author": "https://github.com/AlexanderLapygin",
   "scripts": {
+    "start": "node index.js"
   },
   "keywords": [
     "javascript",
