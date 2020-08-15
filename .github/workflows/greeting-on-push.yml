@@ -14,3 +14,5 @@ jobs:
         with:
           node-version: 12
       - run: echo Hello!
+      - run: node index.js
+        
