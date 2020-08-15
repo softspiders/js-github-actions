@@ -16,6 +16,7 @@
 ## Parents
 
 - [- ***github-actions***: javascript](https://github.com/softspiders/javascript)
+- [- ***js***: github-actions](https://github.com/softspiders/github-actions)
 
 ---
 
@@ -33,9 +34,7 @@
 
 ## Running
 
-```sh
-TBD
-```
+Do push to [this repo](https://github.com/softspiders/github-action)  and see output log in Actions Tab
 
 ### License
 
