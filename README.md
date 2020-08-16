@@ -20,7 +20,7 @@
 
 ## Children
 
-- [+ ***git-flow***, ***publishing***, ***releasing***, ***typescript***: lerna-ts-ci-starter](https://github.com/softspiders/lerna-ts-ci-starter)
+- [+ ***git-flow***, ***lerna***, ***publishing***, ***releasing***, ***typescript***: lerna-ts-ci-starter](https://github.com/softspiders/lerna-ts-ci-starter)
 
 ---
 
